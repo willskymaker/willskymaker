@@ -14,8 +14,8 @@ Sono un ingegnere informatico con una grande passione per la tecnologia, il mond
 
 - **Open Source e Community**: organizzo eventi locali come il **Puccia Linux**, meetup e hackathon per diffondere la cultura libera e open.
 - **Tecnologia e Innovazione**: amo imparare nuove tecnologie, ho esperienza in sviluppo software, cybersecurity e droni.
-- **Gaming e Cultura Nerd**: sono un appassionato di giochi di ruolo (D&D 5e), boardgames e VR gaming, passioni che condivido con amici e famiglia.
-- **BBQ e cucina gourmet**: sperimento tecniche avanzate come reverse searing e affumicatura, rendendo ogni piatto un'occasione speciale per coinvolgere chi amo.
+- **Gaming e Cultura Nerd**: sono un appassionato di giochi di ruolo (D&D 5e), boardgames e video-gaming, passioni che condivido con amici e famiglia.
+- **BBQ e cucina gourmet**: sperimento tecniche avanzate come reverse searing e affumicatura sous vide, rendendo ogni piatto un'occasione speciale per coinvolgere chi amo.
 
 ---
 
@@ -39,11 +39,8 @@ Sono un ingegnere informatico con una grande passione per la tecnologia, il mond
 
 ## 📚 Libri che mi hanno ispirato
 
-- *Legacy*, di James Kerr
-- *Leadership*, tecniche e strategie per influenzare e ottenere successo
-- *Pensa e arricchisci te stesso*, Napoleon Hill
-- *Usa la tua mente quantica*
-
+- **Niente teste di cazzo**, di James Kerr
+- **L'arte della guerra**, di Sun-Tzu
 ---
 
 ## 🤝 Dove trovarmi
