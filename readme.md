@@ -6,7 +6,7 @@ Sono un ingegnere informatico con una grande passione per la tecnologia, il mond
 
 ## 🔭 Chi sono e di cosa mi occupo?
 
-- Attualmente ricopro il ruolo di **Open Source Community Manager** presso **Sanmarco Informatica**.
+- Attualmente ricopro il ruolo di **Open Source Community Manager** e di **QA-QC** presso **Sanmarco Informatica**.
 
 ---
 
